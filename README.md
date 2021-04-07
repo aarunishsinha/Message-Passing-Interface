@@ -19,7 +19,7 @@ $ cd mpi/download
 $ mv ../../Downloads/openmpi-4.1.0.tar.bz2
 $ tar -xzvf openmpi-4.1.0.tar.bz2
 $ cd openmpi-4.1.0
-$ ./configure --prefix=/Users/aarunishsinha/mpi/    *(replace aarunishsinha by your user name on your Mac)*
+$ ./configure --prefix=/Users/aarunishsinha/mpi/    <i>(replace aarunishsinha by your user name on your Mac)<\i>
 ```
 This may take a while to complete. When it is done,
 ```
