@@ -26,3 +26,9 @@ This may take a while to complete. When it is done,
 $ make all install
 ```
 This will also take a while to complete
+
+### Alternate Install
+If you have Homebrew installed,
+```shell 
+brew install open-mpi
+```
