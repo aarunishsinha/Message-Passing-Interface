@@ -30,5 +30,5 @@ This will also take a while to complete
 ### Alternate Install
 If you have Homebrew installed,
 ```shell 
-brew install open-mpi
+$ brew install open-mpi
 ```
